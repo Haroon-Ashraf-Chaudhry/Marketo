@@ -1,6 +1,10 @@
+<div align="center">
+
 # 🛍️ Marketo — Full-Stack MERN Multi-Vendor Marketplace
 
 A production-grade multi-vendor e-commerce platform built with MongoDB, Express, React, and Node.js.
+
+</div>
 
 ---
 
@@ -237,7 +241,7 @@ Don't forget to set up Stripe webhooks pointing to your deployed API URL (`/api/
 
 ---
 
-## 📁 Folder Summary for Portfolio Interviews
+## 📁 Summary
 
 - **Role-based auth** — 3 separate user types with middleware guards
 - **Stripe split payments** — PaymentIntents + webhook confirmation
@@ -245,3 +249,26 @@ Don't forget to set up Stripe webhooks pointing to your deployed API URL (`/api/
 - **MongoDB Aggregation** — vendor stats, revenue calculations
 - **Full-text search** — MongoDB Atlas text indexes
 - **Dispute resolution** — structured workflow with admin resolution
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+**Haroon Ashraf Chaudhry**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Haroon--Ashraf--Chaudhry-181717?style=flat-square&logo=github)](https://github.com/Haroon-Ashraf-Chaudhry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/haroon-ashraf-chaudhry)
+
+---
+
+<div align="center">
+
+⭐ **If you find this repository useful, please consider giving it a star!** ⭐
+
+</div>
